@@ -1,0 +1,4 @@
+.env
+.venv/
+homeassistant/
+__pycache__/
